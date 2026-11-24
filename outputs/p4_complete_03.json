@@ -1,0 +1,28 @@
+{
+ "S1_REPS": 100,
+ "S2_ORDERS": 1,
+ "files": {
+  "p4_bench_s1.csv": "cd40b3f7166c3eef7ef1a034d6264bb10b21abdd00d90994c6a174da434bda21",
+  "p4_curves_seconds.csv": "9be0bcb1ebed855a34b714a1f0dfe5cc93e537ace2eaa325c03d8b61f6ef92fc",
+  "p4_curves_summary.csv": "9f045fd8e37970f41e97e59c5386460d8ae38be0db3a1ff73e7d95c8b948e551",
+  "p4_curves_timing.json": "3a4a10461a6c736baf83626dd3a47a206d7b35d728107a64a085c1c90de5f247",
+  "p4_pred_pseudo_01.npz": "cd0739f0eecf8d7ceb538033fd8311906bfdad84b7759a51cc4ebfd84b7cbf33",
+  "p4_pred_pseudo_10.npz": "60125269d50740067f0c58b1c3e2666a82a4f634af21f37ec31aeeb01f5e06f2",
+  "p4_pred_s1_12.npz": "0ca32d1c9a535ac2685e41845386331ffe66ee88995aee856667578a46984a53",
+  "p4_pred_s1_21.npz": "daed7c4b7e6d8796fd75855fdeaa4065c44062cbee806e1c6183a6c71779fd4c",
+  "p4_pred_s2.npz": "2a85abadce49a48db443373d60473834de00996274025881f02ff82feb93c0c9",
+  "p4_pseudo_transfer.csv": "9bde11bf3f19a50c314e0ec24345ab7aaecd187c5c1d202d4524b37326aadd5c",
+  "p4_update_settings.json": "f58114ae9abd5ed5f5bad801bf435087fba4b14f9a4754273bfc3c3d164f724c",
+  "p4_versions_03.csv": "fb2a10149dd49a7d2bf29c627355722e3a49988ebb63534b5747ca9e5a18aa74"
+ },
+ "fingerprint": "fe3bf2fdd0cbbdafdc0f1ec76c0ff45467d0cb8e7b707e21fcb6a66ccbad8616",
+ "notebook": "03_update_curves_GPU",
+ "repetitions": {
+  "pseudo_01": 27,
+  "pseudo_10": 8,
+  "s1_12": 100,
+  "s1_21": 100,
+  "s2": 81
+ },
+ "smoke": false
+}

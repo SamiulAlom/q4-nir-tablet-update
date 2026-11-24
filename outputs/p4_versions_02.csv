@@ -1,0 +1,18 @@
+item,value
+numpy,2.5.4
+pandas,3.1.1
+scipy,1.18.1
+scikit-learn,1.9.1
+xgboost,3.4.1
+torch,2.6.0+cu124
+tabpfn,10.2.0
+python,3.13.17
+device,cuda
+torch_cuda,12.4
+cudnn,90100
+cudnn_deterministic,True
+cudnn_benchmark,False
+p4_common,2
+p4_models,2
+gpu,NVIDIA GeForce RTX 3060
+gpu_driver,610.88

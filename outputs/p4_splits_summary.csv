@@ -1,0 +1,13 @@
+item,value
+Scenario I source training tablets,195
+Scenario I new-condition tablets,460
+Scenario I repetitions,200
+Scenario I update pool / evaluation tablets per repetition,100 / 360
+Scenario II source tablets (groups),190 (19)
+Scenario II new-condition tablets (groups),120 (12)
+Scenario II repetitions (choices of pool groups x orders),243 (81 x 3)
+Scenario II evaluation tablets per repetition,80
+"Pseudo-transfer repetitions, scale 0 to 1 / 1 to 0",27 / 8
+Shootout row pairing supported by the spectra in every part (pre-set rule),False
+sha256 of p4_splits.json,034d226f695684bfd80be90445b2d9ba6b6def65ae71660c49acb3bc4dfa7a35
+digest of the arrays the splits index (stored inside p4_splits.json),a5d408a807ec5415c14c74dfa11bd5b274a881e184f855f93a84757bc757ffe4

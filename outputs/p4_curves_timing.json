@@ -1,0 +1,44 @@
+{
+ "by_part": {
+  "pseudo_01 (per repetition)": {
+   "hours": 0.08331666666666666,
+   "mean_seconds": 11.108888888888888,
+   "parts_in_full_design": 27
+  },
+  "pseudo_10 (per repetition)": {
+   "hours": 0.02495277777777778,
+   "mean_seconds": 11.22875,
+   "parts_in_full_design": 8
+  },
+  "s1_12 (per repetition)": {
+   "hours": 9.717227777777778,
+   "mean_seconds": 174.91009999999997,
+   "parts_in_full_design": 200
+  },
+  "s1_21 (per repetition)": {
+   "hours": 9.238705555555555,
+   "mean_seconds": 166.2967,
+   "parts_in_full_design": 200
+  },
+  "s2 (per choice)": {
+   "hours": 0.18854722222222223,
+   "mean_seconds": 8.379876543209877,
+   "parts_in_full_design": 81
+  },
+  "s2 (per repetition)": {
+   "hours": 1.597475,
+   "mean_seconds": 23.666296296296295,
+   "parts_in_full_design": 243
+  }
+ },
+ "elapsed_minutes_this_run": 618.9833725770314,
+ "estimated_hours": {
+  "100 repetitions, 1 order": 10.307274999999999,
+  "100 repetitions, 2 orders": 10.839766666666664,
+  "200 repetitions, 3 orders (the plan)": 20.850224999999995
+ },
+ "gpu_load_before_this_run": "3 %, 327 MiB",
+ "note": "Wall-clock on this PC from the part files (a resumed run reports the times of when each part was computed). Not included: source-model set-up, no-update and benchmark predictions, file writing and assembly (see elapsed minutes). In the smoke test Scenario II runs all three values of every update setting, so its share is an upper bound for any chosen value. A GPU load well above zero before this run means the GPU was shared and the times are inflated.",
+ "parts_timed": 397,
+ "smoke": false
+}

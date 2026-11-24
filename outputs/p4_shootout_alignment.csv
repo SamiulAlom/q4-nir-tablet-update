@@ -1,0 +1,13 @@
+part,pairing,tablets,partner_top1_both_directions,partner_in_top5_both_directions,median_rank_1_to_2,median_rank_2_to_1,tied_rows,invalid_rows
+calibrate,rows as given,155,0.1032,0.4323,5.0,4.0,0.0,0.0
+calibrate,control: shuffled pairing,155,0.0,0.0194,79.0,86.0,0.0,0.0
+calibrate,control: neighbouring rows swapped,155,0.0194,0.0323,72.0,72.0,0.0,0.0
+calibrate,RULE: NOT supported,155,,,,,,
+validate,rows as given,40,0.225,0.7,2.0,2.5,0.0,0.0
+validate,control: shuffled pairing,40,0.025,0.1,13.0,16.5,0.0,0.0
+validate,control: neighbouring rows swapped,40,0.0,0.1,13.5,13.0,0.0,0.0
+validate,RULE: supported,40,,,,,,
+test,rows as given,460,0.0587,0.1957,16.0,17.0,0.0,0.0
+test,control: shuffled pairing,460,0.0,0.0043,230.0,218.0,0.0,0.0
+test,control: neighbouring rows swapped,460,0.0,0.0152,151.0,143.0,0.0,0.0
+test,RULE: NOT supported,460,,,,,,

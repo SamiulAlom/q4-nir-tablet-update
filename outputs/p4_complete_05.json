@@ -1,0 +1,23 @@
+{
+ "files": {
+  "p4_sens_pairs_ratios.csv": "9d7c90aea4f93ea8c4af2027334b410699422b48c83a0bfb4bef9cba8b1c60c0",
+  "p4_sens_pairs_rmse.csv": "c3d1962cf408043f4c201487e8effef296f483c179c479b908b2b073d1171fd9",
+  "p4_sens_pairs_tuning.csv": "73252d7c90595f392b48bba2bf97eb90bfb75e2b44bc2b5741c08a0897c4c2b8"
+ },
+ "inputs": {
+  "pred_s1_12": "0ca32d1c9a535ac2685e41845386331ffe66ee88995aee856667578a46984a53",
+  "splits": "034d226f695684bfd80be90445b2d9ba6b6def65ae71660c49acb3bc4dfa7a35"
+ },
+ "notebook": "05_sensitivity_pairs_CPU",
+ "smoke": false,
+ "versions": {
+  "numpy": "2.5.4",
+  "p4_common": "2",
+  "p4_models": "2",
+  "p4_stats": "1",
+  "pandas": "3.1.1",
+  "python": "3.13.17",
+  "scikit-learn": "1.9.1",
+  "xgboost": "3.4.1"
+ }
+}

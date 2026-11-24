@@ -1,0 +1,6 @@
+package,version
+numpy,2.5.4
+pandas,3.1.1
+scipy,1.18.1
+python,3.13.17
+p4_common,2

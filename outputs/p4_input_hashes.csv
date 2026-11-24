@@ -1,0 +1,6 @@
+file,bytes,sha256,what
+data/raw/idrc2002_shootout/nir_shootout_2002.mat_.zip,5414232,04c03a4314ab8e8f63e0ecc788b657b5d1b5450791ce465ad41ad90cb5d52125,archive as downloaded
+data/raw/ucph_tablets/Tablets.zip,3822359,b583e3ad176ad6571d2f38c63dc4af3e9a9f283d59d004f85f3ae85d7a212289,archive as downloaded
+nir_shootout_2002.mat (inside the archive),6868936,129a32ec9e194e568cbd96a200c88aabeb347156081b5dfbb0120372fdd6c22a,data file read
+Tablets_matlab.zip/NIRdata_tablets.MAT (inside the archive),1032640,122fe99b36e205b13171fd877841949d5c48b032ecafe5fffc69229974994b19,data file read
+"data/cache/p4_arrays.npz (digest over all 13 arrays: names, shapes, types, values)",0,a5d408a807ec5415c14c74dfa11bd5b274a881e184f855f93a84757bc757ffe4,arrays used by notebooks 02-04; they must check this digest against p4_splits.json before indexing

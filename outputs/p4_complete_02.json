@@ -1,0 +1,13 @@
+{
+ "files": {
+  "p4_cnn_checkpoints.csv": "241e71a617966ee7f96f30e8d2273284be7cd783b0fb3a7c653d9915e6504710",
+  "p4_tuning_chosen.json": "e86e421b970f93d222daa90d54ec9f174973a7c3bd820b1d20f24fffc048ed27",
+  "p4_tuning_cv.csv": "16224a363d5682e85a4f0b12707f07741045810bb76f78f50e70f829f0fe3b18",
+  "p4_tuning_folds.csv": "cdbe75e1fb9300c00b3fe75893184ee3ce37ebd44d5397f01fd0ad6768887b91",
+  "p4_tuning_seconds.csv": "d8555b4ad30b6510d7f26c31116ace45529102c25185024c0ea1736d152767bd",
+  "p4_versions_02.csv": "959804c25093fb581a3f11dbc31d84a9410ca550421e8c233d83529bd6e10eda"
+ },
+ "fingerprint": "f2f9900bccf9c75a9a04fbac069ec13bf6d461eea89fc74738d017b1650e9680",
+ "notebook": "02_tune_source_GPU",
+ "smoke": false
+}

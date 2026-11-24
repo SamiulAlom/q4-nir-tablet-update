@@ -1,0 +1,26 @@
+{
+ "files": {
+  "p4_fig_curves.pdf": "df4a2005930b0e04bf62861163ab2ebb59a7fc7298a1cdb1b2e6a0da3fa13714",
+  "p4_fig_curves.png": "eaa14f621a181faf0ce84aefe82794b932ad57d862d82c31f0a8968b48f06fc9",
+  "p4_fig_curves_s1_21.pdf": "a5ab1755c39b74d559431c299d1583ed08e58c671cda7e5fd67f4412b68ce48a",
+  "p4_fig_curves_s1_21.png": "7c89ede36d7823594ed1baa8480c6988cb480585ce8b9f473dab3c0b208c5209",
+  "p4_fig_diff_spectra.pdf": "0fe9b06d520d19f85963382477f3d3a832fd590869d894e00a106c9ea76f7d42",
+  "p4_fig_diff_spectra.png": "e590eb46eea2f76fad48a6c126f5e5c635e729486fc7a997c74e12e89ad6be99",
+  "p4_tab_budget.csv": "d13b787bec06b9751b01cbcc069b67688b3172f9c756c4d1eb8b95acebbaef2d",
+  "p4_tab_compare.csv": "f5af4fb2a252061ecc8ef796e5a68dd3492bda1d329e8af928bad3aad848f4fa",
+  "p4_tab_curves.csv": "451d4ca5fd1d71c2620f0bfc31fd9124255c7a481b12e47a5d9cb1c297fdc97f",
+  "p4_tab_diff_regions.csv": "2b4a9d1e6f74801d03c3929f9413b9ab5b6348cc93a35d4e37cd7654744e017c",
+  "p4_tab_opening.csv": "af032ea35fce43a3578a175deea23332dfe17ae613dc55156e3b907793e235f2",
+  "p4_tab_primary.csv": "98661ca7a60e2de2021eeda6a1dacf7fc6e36f8853cf5b6e92513bf9b477ba5d",
+  "p4_tab_s2_groups.csv": "265a34e498d08dba02fe879a4ec35750ec89e75ba1e28bf36adbf13024cfe18d",
+  "p4_tab_s2_logo.csv": "d66142c3e6b7fa9c169caff8d623aec25d7c27f7d25e5720ab9f5557da09ddd9",
+  "p4_tab_s2_range.csv": "42978b9eecc69b970045b499de1beee592ef7a9a700ba8f76eca3751b87fc807",
+  "p4_versions_04.csv": "97fd4b7fafa040b1d1cded79bd919e5531d90cb0181144c92dc033af1ac6e913"
+ },
+ "inputs": {
+  "complete_02": "19d232e09d4b048614a6c79facd51243ca987dee72e48e52411b436986d245ad",
+  "complete_03": "4af1991bf8026ac15912d1a905207e30ed75055ebbf2a9fba8a8cd2592ed3604"
+ },
+ "notebook": "04_statistics_figures_CPU",
+ "smoke": false
+}

@@ -1,0 +1,148 @@
+{
+ "fingerprint": "fe3bf2fdd0cbbdafdc0f1ec76c0ff45467d0cb8e7b707e21fcb6a66ccbad8616",
+ "repetitions": {
+  "pseudo_01": 27,
+  "pseudo_10": 8
+ },
+ "rule": "plan section 5: mean RMSE at n = 8 per direction, directions averaged with equal weight, lowest wins, tie to the middle value then the smaller",
+ "scenario_I": {
+  "main": {
+   "cnn_steps": 200,
+   "pls_copies": 5,
+   "t_factor": 1.0,
+   "tabpfn_repeat": 5,
+   "xgb_copies": 5
+  },
+  "rule": "no pseudo-transfer exists; the middle value is the main setting and all three are reported"
+ },
+ "scenario_II": {
+  "cnn_steps": {
+   "average": [
+    0.5370090183528893,
+    0.46715679245942926,
+    0.3697097849602993
+   ],
+   "chosen": 800,
+   "family": "cnn",
+   "grid": [
+    50,
+    200,
+    800
+   ],
+   "mean_rmse_scale0_to_1": [
+    0.6145058355760866,
+    0.513558847049662,
+    0.3275963170282764
+   ],
+   "mean_rmse_scale1_to_0": [
+    0.45951220112969193,
+    0.4207547378691965,
+    0.41182325289232224
+   ],
+   "update": "U2"
+  },
+  "pls_copies": {
+   "average": [
+    0.4295313516941418,
+    0.41477100292603275,
+    0.4255589304234242
+   ],
+   "chosen": 5,
+   "family": "pls",
+   "grid": [
+    1,
+    5,
+    20
+   ],
+   "mean_rmse_scale0_to_1": [
+    0.3955721328638178,
+    0.3664239025351929,
+    0.37791274038904704
+   ],
+   "mean_rmse_scale1_to_0": [
+    0.46349057052446585,
+    0.46311810331687264,
+    0.47320512045780133
+   ],
+   "update": "U2"
+  },
+  "t_factor": {
+   "average": [
+    0.43375139790136175,
+    0.429721042271893,
+    0.4172690037555624
+   ],
+   "chosen": 10.0,
+   "family": "pls",
+   "grid": [
+    0.1,
+    1.0,
+    10.0
+   ],
+   "mean_rmse_scale0_to_1": [
+    0.4494124090823577,
+    0.4551255980916778,
+    0.44056980812023855
+   ],
+   "mean_rmse_scale1_to_0": [
+    0.41809038672036575,
+    0.40431648645210827,
+    0.3939681993908863
+   ],
+   "update": "T"
+  },
+  "tabpfn_repeat": {
+   "average": [
+    0.3482732047907656,
+    0.42623702879758774,
+    0.7154785999010476
+   ],
+   "chosen": 1,
+   "family": "tabpfn",
+   "grid": [
+    1,
+    5,
+    20
+   ],
+   "mean_rmse_scale0_to_1": [
+    0.3244818893901882,
+    0.5206320928894829,
+    0.7178278742695055
+   ],
+   "mean_rmse_scale1_to_0": [
+    0.37206452019134306,
+    0.33184196470569266,
+    0.7131293255325898
+   ],
+   "update": "U2"
+  },
+  "xgb_copies": {
+   "average": [
+    0.4688244510704624,
+    0.4590859685690899,
+    0.45301098174979926
+   ],
+   "chosen": 20,
+   "family": "xgb",
+   "grid": [
+    1,
+    5,
+    20
+   ],
+   "mean_rmse_scale0_to_1": [
+    0.4820626133418638,
+    0.46932414987174476,
+    0.45722463654693934
+   ],
+   "mean_rmse_scale1_to_0": [
+    0.455586288799061,
+    0.44884778726643504,
+    0.44879732695265917
+   ],
+   "update": "U2"
+  }
+ },
+ "smoke": false,
+ "splits_sha256": "034d226f695684bfd80be90445b2d9ba6b6def65ae71660c49acb3bc4dfa7a35",
+ "tuned_sha256": "e86e421b970f93d222daa90d54ec9f174973a7c3bd820b1d20f24fffc048ed27"
+}

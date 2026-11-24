@@ -1,0 +1,20 @@
+item,value
+numpy,2.5.4
+pandas,3.1.1
+scipy,1.18.1
+scikit-learn,1.9.1
+xgboost,3.4.1
+torch,2.6.0+cu124
+tabpfn,10.2.0
+python,3.13.17
+device,cuda
+torch_cuda,12.4
+cudnn,90100
+p4_common,2
+p4_models,2
+p4_updates,1
+gpu,NVIDIA GeForce RTX 3060
+gpu_driver,610.88
+S1_REPS,100
+S2_ORDERS,1
+fingerprint,fe3bf2fdd0cbbdafdc0f1ec76c0ff45467d0cb8e7b707e21fcb6a66ccbad8616

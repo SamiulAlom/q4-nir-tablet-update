@@ -1,0 +1,4 @@
+part,tablets,assay_min,assay_max,assay_mean,assay_sd
+calibrate,155,151.6,239.1,192.885,21.98
+validate,40,188.2,199.5,194.795,2.393
+test,460,154.3,237.7,188.4,15.763
